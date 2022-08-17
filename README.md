@@ -1,12 +1,21 @@
 # 30-Days-of-Code-Hackerrank
 
-Day 0: Hello, World.
 
-Day 1: Data Types
+Access the questions here:
+https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
-Day 2: Operators
+Day 0: Hello, World. <br>
+Solution:
+https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY%200
 
-Day 3: Intro to Conditional Statements
+Day 1: Data Types  <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY%201
+
+Day 2: Operators  <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/Day:%202
+
+Day 3: Intro to Conditional Statements  <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/Day%203
 
 Day 4: Class vs. Instance
  
@@ -60,3 +69,5 @@ Day 28: RegEx, Patterns, and Intro to Databases
  
 Day 29: Bitwise AND
  
+ 
+![image](https://user-images.githubusercontent.com/91546745/185224150-1890101f-4c84-47b0-9542-e66acaf74a29.png)
