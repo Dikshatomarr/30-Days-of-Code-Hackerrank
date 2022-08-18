@@ -17,7 +17,8 @@ Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/D
 Day 3: Intro to Conditional Statements  <br>
 Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/Day%203
 
-Day 4: Class vs. Instance
+Day 4: Class vs. Instance  <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%204
  
 Day 5: Loops
  
