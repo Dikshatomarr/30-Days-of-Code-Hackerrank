@@ -20,7 +20,8 @@ Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/D
 Day 4: Class vs. Instance  <br>
 Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%204
  
-Day 5: Loops
+Day 5: Loops  <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%205
  
 Day 6: Let's Review
  
