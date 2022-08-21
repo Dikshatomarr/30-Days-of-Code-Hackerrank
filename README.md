@@ -25,7 +25,9 @@ Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/D
  
 Day 6: Let's Review <br>
 Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%206
-Day 7: Arrays
+
+Day 7: Arrays <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%207
 
 Day 8: Dictionaries and Maps
 
