@@ -29,7 +29,8 @@ Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/D
 Day 7: Arrays <br>
 Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%207
 
-Day 8: Dictionaries and Maps
+Day 8: Dictionaries and Maps <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%208
 
 Day 9: Recursion 3
 
