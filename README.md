@@ -32,7 +32,8 @@ Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/D
 Day 8: Dictionaries and Maps <br>
 Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%208
 
-Day 9: Recursion 3
+Day 9: Recursion 3 <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/Day:%209
 
 Day 10: Binary Numbers
 
