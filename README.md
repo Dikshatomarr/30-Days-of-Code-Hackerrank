@@ -35,7 +35,8 @@ Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/D
 Day 9: Recursion 3 <br>
 Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/Day:%209
 
-Day 10: Binary Numbers
+Day 10: Binary Numbers <br>
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%2010
 
 Day 11: 2D Arrays
 
