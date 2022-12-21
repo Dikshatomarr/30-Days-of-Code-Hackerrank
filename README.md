@@ -39,6 +39,7 @@ Day 10: Binary Numbers <br>
 Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%2010
 
 Day 11: 2D Arrays
+Solution: https://github.com/Dikshatomarr/30-Days-of-Code-Hackerrank/blob/main/DAY:%2011
 
 Day 12: Inheritance
 
